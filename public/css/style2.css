@@ -1,0 +1,36 @@
+body{
+    background-color:#3D0000 ;
+}
+.card{
+    border-radius: 10px;
+    height: 70vh;
+    width: 35rem;
+    margin: 3rem auto;
+}
+
+.card-title,.btn-block{
+    letter-spacing: 3px;
+}
+.card-title, .nav-link{
+    padding: .9rem;
+    background-color: #950101;
+    color: #fff;
+    border-radius: 10px 10px 0 0;
+    text-align: center;
+}
+
+.btn-block{
+    font-size: 1.3rem;
+    background-color: #950101;
+    color: #fff;
+    border-radius: 1rem;
+}
+
+.btn-block:hover{
+    background-color: #FF0000;
+    color: #fff;
+}
+
+label{
+    font-weight: bold;
+}
